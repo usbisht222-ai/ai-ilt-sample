@@ -1,6 +1,6 @@
 # Prompting for Better Work Outputs
 
-**Format:** Live session (in-person or virtual) · **Duration:** 60 minutes · **Audience:** Non-technical professionals new to generative AI · **Group size:** 12–25
+**Format:** Live session (in-person or virtual) · **Duration:** 60 minutes · **Audience:** Non-technical professionals new to generative AI · **Group size:** 12–20
 
 ## Learning Objectives
 
